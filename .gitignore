@@ -1,0 +1,7 @@
+ # exclude all weights, images and old code
+/*
+!/colab_backup
+/old_code_etc
+/images
+/to_colab
+!*.py
